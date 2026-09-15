@@ -3,6 +3,8 @@
 **How a data function grew from one analyst to fifteen people across three business lines at a fast-growing prop trading firm — and what I would do differently.**
 
 Kazi Nadimul Haque · Manager II, Business Intelligence, Next Ventures (FundedNext)
+
+> 📖 **Easier to read on the portfolio:** [nadim-raj.github.io/building-bi-from-zero](https://nadim-raj.github.io/building-bi-from-zero/)
 [Portfolio](https://nadim-raj.github.io) · [LinkedIn](https://www.linkedin.com/in/kazi-nadimul-haque/)
 
 ---
